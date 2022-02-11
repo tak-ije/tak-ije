@@ -55,10 +55,8 @@
            attributeName="stroke-dashoffset"
            from="3117.2px"
            to="0"
-           dur="3s"
-           repeatCount="1"
-           begin="mouseover"
-           restart="whenNotActive" />
+           dur="10s"
+           repeatCount="indefinite"/>
       </path>
     </g>
   </g>
