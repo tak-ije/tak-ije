@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./images/town.svg" width="2000">
+  <img src="./header/town.svg">
 </p>
+
 # Hi
 :+1:
