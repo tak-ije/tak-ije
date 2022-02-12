@@ -4,7 +4,7 @@
 
 # Hi there 👋🏽
 <img src="./images/profile.svg" width="20%">
-<img align="right"src="./images/town.svg">
+<img align="right"src="./images/pacman.svg">
 
 - hoge
 - fuga
