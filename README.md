@@ -2,7 +2,7 @@
   <img src="./images/header.svg">
 </p>
 
-# Hi there 👋🏽
+# Hi there 👋
 <img src="./images/profile.svg" width="20%">
 
 <img align="right" src="./images/pacman.svg">
