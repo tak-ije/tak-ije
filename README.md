@@ -3,7 +3,7 @@
 </p>
 
 # Hi there 👋🏽
-<img src="./images/profile_dark.svg" width="20%">
+<img src="./images/profile_light.svg" width="20%">
 
 <img align="right" src="./images/pacman.svg">
 
