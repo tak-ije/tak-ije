@@ -1,605 +1,124 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="400"
-   height="250"
-   viewBox="0 0 105.82525 49.609375"
-   version="1.1"
-   id="svg5"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs2">
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter1817"
-       x="0"
-       y="0"
-       width="1"
-       height="1">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
-         result="colormatrix"
-         id="feColorMatrix1813" />
-      <feComposite
-         in2="colormatrix"
-         operator="arithmetic"
-         k2="1.38778e-16"
-         result="fbSourceGraphic"
-         id="feComposite1815"
-         k1="0"
-         k3="0"
-         k4="0" />
-      <feColorMatrix
-         result="fbSourceGraphicAlpha"
-         in="fbSourceGraphic"
-         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
-         id="feColorMatrix1843" />
-      <feColorMatrix
-         id="feColorMatrix1845"
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
-         result="colormatrix"
-         in="fbSourceGraphic" />
-      <feComposite
-         in2="colormatrix"
-         id="feComposite1847"
-         operator="arithmetic"
-         k2="1.38778e-16"
-         result="composite"
-         k1="0"
-         k3="0"
-         k4="0" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter1823"
-       x="0"
-       y="0"
-       width="1"
-       height="1">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
-         result="colormatrix"
-         id="feColorMatrix1819" />
-      <feComposite
-         in2="colormatrix"
-         operator="arithmetic"
-         k2="1.38778e-16"
-         result="fbSourceGraphic"
-         id="feComposite1821"
-         k1="0"
-         k3="0"
-         k4="0" />
-      <feColorMatrix
-         result="fbSourceGraphicAlpha"
-         in="fbSourceGraphic"
-         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
-         id="feColorMatrix1849" />
-      <feColorMatrix
-         id="feColorMatrix1851"
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
-         result="colormatrix"
-         in="fbSourceGraphic" />
-      <feComposite
-         in2="colormatrix"
-         id="feComposite1853"
-         operator="arithmetic"
-         k2="1.38778e-16"
-         result="fbSourceGraphic"
-         k1="0"
-         k3="0"
-         k4="0" />
-      <feColorMatrix
-         result="fbSourceGraphicAlpha"
-         in="fbSourceGraphic"
-         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
-         id="feColorMatrix2917" />
-      <feColorMatrix
-         id="feColorMatrix2919"
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
-         result="colormatrix"
-         in="fbSourceGraphic" />
-      <feComposite
-         in2="colormatrix"
-         id="feComposite2921"
-         operator="arithmetic"
-         k2="1"
-         result="fbSourceGraphic"
-         k1="0"
-         k3="0"
-         k4="0" />
-      <feColorMatrix
-         result="fbSourceGraphicAlpha"
-         in="fbSourceGraphic"
-         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
-         id="feColorMatrix2965" />
-      <feColorMatrix
-         id="feColorMatrix2967"
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
-         result="colormatrix"
-         in="fbSourceGraphic" />
-      <feComposite
-         in2="colormatrix"
-         id="feComposite2969"
-         operator="arithmetic"
-         k2="1"
-         result="fbSourceGraphic"
-         k1="0"
-         k3="0"
-         k4="0" />
-      <feColorMatrix
-         result="fbSourceGraphicAlpha"
-         in="fbSourceGraphic"
-         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
-         id="feColorMatrix2989" />
-      <feColorMatrix
-         id="feColorMatrix2991"
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
-         result="colormatrix"
-         in="fbSourceGraphic" />
-      <feComposite
-         in2="colormatrix"
-         id="feComposite2993"
-         operator="arithmetic"
-         k2="1"
-         result="fbSourceGraphic"
-         k1="0"
-         k3="0"
-         k4="0" />
-      <feColorMatrix
-         result="fbSourceGraphicAlpha"
-         in="fbSourceGraphic"
-         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
-         id="feColorMatrix3013" />
-      <feColorMatrix
-         id="feColorMatrix3015"
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
-         result="colormatrix"
-         in="fbSourceGraphic" />
-      <feComposite
-         in2="colormatrix"
-         id="feComposite3017"
-         operator="arithmetic"
-         k2="1"
-         result="fbSourceGraphic"
-         k1="0"
-         k3="0"
-         k4="0" />
-      <feColorMatrix
-         result="fbSourceGraphicAlpha"
-         in="fbSourceGraphic"
-         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
-         id="feColorMatrix3037" />
-      <feColorMatrix
-         id="feColorMatrix3039"
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
-         result="colormatrix"
-         in="fbSourceGraphic" />
-      <feComposite
-         in2="colormatrix"
-         id="feComposite3041"
-         operator="arithmetic"
-         k2="1"
-         result="composite"
-         k1="0"
-         k3="0"
-         k4="0" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter6876"
-       x="-2.0240588e-17"
-       y="-0.010360735"
-       width="1"
-       height="1.0207216">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
-         result="colormatrix"
-         id="feColorMatrix6872" />
-      <feComposite
-         in2="colormatrix"
-         operator="arithmetic"
-         k2="1.38778e-16"
-         result="composite"
-         id="feComposite6874"
-         k1="0"
-         k3="0"
-         k4="0" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter6900"
-       x="-2.0240588e-17"
-       y="-0.010360735"
-       width="1"
-       height="1.0207216">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
-         result="colormatrix"
-         id="feColorMatrix6896" />
-      <feComposite
-         in2="colormatrix"
-         operator="arithmetic"
-         k2="1.38778e-16"
-         result="composite"
-         id="feComposite6898"
-         k1="0"
-         k3="0"
-         k4="0" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter9002"
-       x="0"
-       y="0"
-       width="1"
-       height="1">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
-         result="colormatrix"
-         id="feColorMatrix8998" />
-      <feComposite
-         in2="colormatrix"
-         operator="arithmetic"
-         k2="0.8"
-         result="composite"
-         id="feComposite9000"
-         k1="0"
-         k3="0"
-         k4="0" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter9008"
-       x="0"
-       y="0"
-       width="1"
-       height="1">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
-         result="colormatrix"
-         id="feColorMatrix9004" />
-      <feComposite
-         in2="colormatrix"
-         operator="arithmetic"
-         k2="0.8"
-         result="composite"
-         id="feComposite9006"
-         k1="0"
-         k3="0"
-         k4="0" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter9014"
-       x="0"
-       y="0"
-       width="1"
-       height="1">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
-         result="colormatrix"
-         id="feColorMatrix9010" />
-      <feComposite
-         in2="colormatrix"
-         operator="arithmetic"
-         k2="0.8"
-         result="composite"
-         id="feComposite9012"
-         k1="0"
-         k3="0"
-         k4="0" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter9020"
-       x="0"
-       y="0"
-       width="1"
-       height="1">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
-         result="colormatrix"
-         id="feColorMatrix9016" />
-      <feComposite
-         in2="colormatrix"
-         operator="arithmetic"
-         k2="0.8"
-         result="composite"
-         id="feComposite9018"
-         k1="0"
-         k3="0"
-         k4="0" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter9026"
-       x="0"
-       y="0"
-       width="1"
-       height="1">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
-         result="colormatrix"
-         id="feColorMatrix9022" />
-      <feComposite
-         in2="colormatrix"
-         operator="arithmetic"
-         k2="0.8"
-         result="composite"
-         id="feComposite9024"
-         k1="0"
-         k3="0"
-         k4="0" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter9032"
-       x="0"
-       y="0"
-       width="1"
-       height="1">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
-         result="colormatrix"
-         id="feColorMatrix9028" />
-      <feComposite
-         in2="colormatrix"
-         operator="arithmetic"
-         k2="0.8"
-         result="composite"
-         id="feComposite9030"
-         k1="0"
-         k3="0"
-         k4="0" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter9038"
-       x="0"
-       y="0"
-       width="1"
-       height="1">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
-         result="colormatrix"
-         id="feColorMatrix9034" />
-      <feComposite
-         in2="colormatrix"
-         operator="arithmetic"
-         k2="0.8"
-         result="composite"
-         id="feComposite9036"
-         k1="0"
-         k3="0"
-         k4="0" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter9044"
-       x="0"
-       y="0"
-       width="1"
-       height="1">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
-         result="colormatrix"
-         id="feColorMatrix9040" />
-      <feComposite
-         in2="colormatrix"
-         operator="arithmetic"
-         k2="0.8"
-         result="composite"
-         id="feComposite9042"
-         k1="0"
-         k3="0"
-         k4="0" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter9050"
-       x="0"
-       y="0"
-       width="1"
-       height="1">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
-         result="colormatrix"
-         id="feColorMatrix9046" />
-      <feComposite
-         in2="colormatrix"
-         operator="arithmetic"
-         k2="0.8"
-         result="composite"
-         id="feComposite9048"
-         k1="0"
-         k3="0"
-         k4="0" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter9056"
-       x="0"
-       y="0"
-       width="1"
-       height="1">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
-         result="colormatrix"
-         id="feColorMatrix9052" />
-      <feComposite
-         in2="colormatrix"
-         operator="arithmetic"
-         k2="0.8"
-         result="composite"
-         id="feComposite9054"
-         k1="0"
-         k3="0"
-         k4="0" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter9062"
-       x="0"
-       y="0"
-       width="1"
-       height="1">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
-         result="colormatrix"
-         id="feColorMatrix9058" />
-      <feComposite
-         in2="colormatrix"
-         operator="arithmetic"
-         k2="0.8"
-         result="composite"
-         id="feComposite9060"
-         k1="0"
-         k3="0"
-         k4="0" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter59751"
-       x="0"
-       width="1"
-       y="-inf"
-       height="inf">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
-         result="colormatrix"
-         id="feColorMatrix59747" />
-      <feComposite
-         in2="colormatrix"
-         operator="arithmetic"
-         k2="1.38778e-16"
-         result="composite"
-         id="feComposite59749"
-         k1="0"
-         k3="0"
-         k4="0" />
-    </filter>
-  </defs>
-  <g
-     id="path2_small1_1"
-     style="filter:url(#filter9044)">
-    <circle
-       style="fill:#05e14d;fill-rule:evenodd;stroke-width:0.3"
-       id="circle6"
-       cx="0"
-       cy="0"
-       r="4" />
-    <animateMotion
-       dur="2s"
-       repeatCount="indefinite"
-       begin="-0.4s">
-      <mpath
-         xlink:href="#path57353" />
-    </animateMotion>
-  </g>
-  <g
-     id="g58010"
-     style="filter:url(#filter9044)">
-    <circle
-       style="fill:#05e14d;fill-rule:evenodd;stroke-width:0.3"
-       id="circle58008"
-       cx="0"
-       cy="0"
-       r="4" />
-    <animateMotion
-       dur="2s"
-       repeatCount="indefinite"
-       begin="-0.9s">
-      <mpath
-         xlink:href="#path57353" />
-    </animateMotion>
-  </g>
-  <g
-     id="g58984"
-     style="filter:url(#filter9044)">
-    <circle
-       style="fill:#05e14d;fill-rule:evenodd;stroke-width:0.3"
-       id="circle58982"
-       cx="0"
-       cy="0"
-       r="4" />
-    <animateMotion
-       dur="2s"
-       repeatCount="indefinite"
-       begin="-1.4s">
-      <mpath
-         xlink:href="#path57353" />
-    </animateMotion>
-  </g>
-  <g
-     id="g58992"
-     style="filter:url(#filter9044)">
-    <circle
-       style="fill:#05e14d;fill-rule:evenodd;stroke-width:0.3"
-       id="circle58990"
-       cx="0"
-       cy="0"
-       r="4" />
-    <animateMotion
-       dur="2s"
-       repeatCount="indefinite"
-       begin="-1.9s">
-      <mpath
-         xlink:href="#path57353" />
-    </animateMotion>
-  </g>
-  <path
-     id="path55098"
-     d="M 35,25 H 3.75 a 31.25,31.25 0 0 1 62.5,0 z"
-     fill="#05e14d"
-     style="fill:#ffff00;stroke-width:0.543416">
-    <animateTransform
-       attributeName="transform"
-       begin="0s;upper_close.end"
-       dur="0.5s"
-       type="rotate"
-       from="0 35 25"
-       to="-45 35 25"
-       id="upper_open"
-       additive="sum" />
-    <animateTransform
-       attributeName="transform"
-       begin="upper_open.end"
-       dur="0.5s"
-       type="rotate"
-       from="-45 35 25"
-       to="0 35 25"
-       id="upper_close"
-       aditive="sum" />
-  </path>
-  <path
-     id="path55119"
-     d="m 35,25 h 31.25 a 31.25,31.25 0 0 1 -62.5,0 z"
-     fill="#05e14d"
-     style="fill:#ffff00;stroke-width:0.543416">
-    <animateTransform
-       attributeName="transform"
-       begin="0s;lower_close.end"
-       dur="0.5s"
-       type="rotate"
-       from="0 35 25"
-       to="45 35 25"
-       id="lower_open"
-       additive="sum" />
-    <animateTransform
-       attributeName="transform"
-       begin="lower_open.end"
-       dur="0.5s"
-       type="rotate"
-       from="45 35 25"
-       to="0 35 25"
-       id="lower_close"
-       aditive="sum" />
-  </path>
-  <path
-     style="fill:none;stroke:#000000;stroke-width:0.312048px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter59751)"
-     d="M 116.82124,25 H 34.252962"
-     id="path57353" />
+<svg width="400" height="250" viewBox="0 0 105.82525 49.609375" version="1.1" id="svg5"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns="http://www.w3.org/2000/svg">
+    <defs id="defs2">
+        <filter style="color-interpolation-filters:sRGB" id="filter1817" x="0" y="0" width="1" height="1">
+            <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 " result="colormatrix" id="feColorMatrix1813"/>
+            <feComposite in2="colormatrix" operator="arithmetic" k2="1.38778e-16" result="fbSourceGraphic" id="feComposite1815" k1="0" k3="0" k4="0"/>
+            <feColorMatrix result="fbSourceGraphicAlpha" in="fbSourceGraphic" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0" id="feColorMatrix1843"/>
+            <feColorMatrix id="feColorMatrix1845" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 " result="colormatrix" in="fbSourceGraphic"/>
+            <feComposite in2="colormatrix" id="feComposite1847" operator="arithmetic" k2="1.38778e-16" result="composite" k1="0" k3="0" k4="0"/>
+        </filter>
+        <filter style="color-interpolation-filters:sRGB" id="filter1823" x="0" y="0" width="1" height="1">
+            <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 " result="colormatrix" id="feColorMatrix1819"/>
+            <feComposite in2="colormatrix" operator="arithmetic" k2="1.38778e-16" result="fbSourceGraphic" id="feComposite1821" k1="0" k3="0" k4="0"/>
+            <feColorMatrix result="fbSourceGraphicAlpha" in="fbSourceGraphic" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0" id="feColorMatrix1849"/>
+            <feColorMatrix id="feColorMatrix1851" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 " result="colormatrix" in="fbSourceGraphic"/>
+            <feComposite in2="colormatrix" id="feComposite1853" operator="arithmetic" k2="1.38778e-16" result="fbSourceGraphic" k1="0" k3="0" k4="0"/>
+            <feColorMatrix result="fbSourceGraphicAlpha" in="fbSourceGraphic" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0" id="feColorMatrix2917"/>
+            <feColorMatrix id="feColorMatrix2919" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 " result="colormatrix" in="fbSourceGraphic"/>
+            <feComposite in2="colormatrix" id="feComposite2921" operator="arithmetic" k2="1" result="fbSourceGraphic" k1="0" k3="0" k4="0"/>
+            <feColorMatrix result="fbSourceGraphicAlpha" in="fbSourceGraphic" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0" id="feColorMatrix2965"/>
+            <feColorMatrix id="feColorMatrix2967" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 " result="colormatrix" in="fbSourceGraphic"/>
+            <feComposite in2="colormatrix" id="feComposite2969" operator="arithmetic" k2="1" result="fbSourceGraphic" k1="0" k3="0" k4="0"/>
+            <feColorMatrix result="fbSourceGraphicAlpha" in="fbSourceGraphic" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0" id="feColorMatrix2989"/>
+            <feColorMatrix id="feColorMatrix2991" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 " result="colormatrix" in="fbSourceGraphic"/>
+            <feComposite in2="colormatrix" id="feComposite2993" operator="arithmetic" k2="1" result="fbSourceGraphic" k1="0" k3="0" k4="0"/>
+            <feColorMatrix result="fbSourceGraphicAlpha" in="fbSourceGraphic" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0" id="feColorMatrix3013"/>
+            <feColorMatrix id="feColorMatrix3015" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 " result="colormatrix" in="fbSourceGraphic"/>
+            <feComposite in2="colormatrix" id="feComposite3017" operator="arithmetic" k2="1" result="fbSourceGraphic" k1="0" k3="0" k4="0"/>
+            <feColorMatrix result="fbSourceGraphicAlpha" in="fbSourceGraphic" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0" id="feColorMatrix3037"/>
+            <feColorMatrix id="feColorMatrix3039" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 " result="colormatrix" in="fbSourceGraphic"/>
+            <feComposite in2="colormatrix" id="feComposite3041" operator="arithmetic" k2="1" result="composite" k1="0" k3="0" k4="0"/>
+        </filter>
+        <filter style="color-interpolation-filters:sRGB" id="filter6876" x="-2.0240588e-17" y="-0.010360735" width="1" height="1.0207216">
+            <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 " result="colormatrix" id="feColorMatrix6872"/>
+            <feComposite in2="colormatrix" operator="arithmetic" k2="1.38778e-16" result="composite" id="feComposite6874" k1="0" k3="0" k4="0"/>
+        </filter>
+        <filter style="color-interpolation-filters:sRGB" id="filter6900" x="-2.0240588e-17" y="-0.010360735" width="1" height="1.0207216">
+            <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 " result="colormatrix" id="feColorMatrix6896"/>
+            <feComposite in2="colormatrix" operator="arithmetic" k2="1.38778e-16" result="composite" id="feComposite6898" k1="0" k3="0" k4="0"/>
+        </filter>
+        <filter style="color-interpolation-filters:sRGB" id="filter9002" x="0" y="0" width="1" height="1">
+            <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 " result="colormatrix" id="feColorMatrix8998"/>
+            <feComposite in2="colormatrix" operator="arithmetic" k2="0.8" result="composite" id="feComposite9000" k1="0" k3="0" k4="0"/>
+        </filter>
+        <filter style="color-interpolation-filters:sRGB" id="filter9008" x="0" y="0" width="1" height="1">
+            <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 " result="colormatrix" id="feColorMatrix9004"/>
+            <feComposite in2="colormatrix" operator="arithmetic" k2="0.8" result="composite" id="feComposite9006" k1="0" k3="0" k4="0"/>
+        </filter>
+        <filter style="color-interpolation-filters:sRGB" id="filter9014" x="0" y="0" width="1" height="1">
+            <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 " result="colormatrix" id="feColorMatrix9010"/>
+            <feComposite in2="colormatrix" operator="arithmetic" k2="0.8" result="composite" id="feComposite9012" k1="0" k3="0" k4="0"/>
+        </filter>
+        <filter style="color-interpolation-filters:sRGB" id="filter9020" x="0" y="0" width="1" height="1">
+            <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 " result="colormatrix" id="feColorMatrix9016"/>
+            <feComposite in2="colormatrix" operator="arithmetic" k2="0.8" result="composite" id="feComposite9018" k1="0" k3="0" k4="0"/>
+        </filter>
+        <filter style="color-interpolation-filters:sRGB" id="filter9026" x="0" y="0" width="1" height="1">
+            <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 " result="colormatrix" id="feColorMatrix9022"/>
+            <feComposite in2="colormatrix" operator="arithmetic" k2="0.8" result="composite" id="feComposite9024" k1="0" k3="0" k4="0"/>
+        </filter>
+        <filter style="color-interpolation-filters:sRGB" id="filter9032" x="0" y="0" width="1" height="1">
+            <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 " result="colormatrix" id="feColorMatrix9028"/>
+            <feComposite in2="colormatrix" operator="arithmetic" k2="0.8" result="composite" id="feComposite9030" k1="0" k3="0" k4="0"/>
+        </filter>
+        <filter style="color-interpolation-filters:sRGB" id="filter9038" x="0" y="0" width="1" height="1">
+            <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 " result="colormatrix" id="feColorMatrix9034"/>
+            <feComposite in2="colormatrix" operator="arithmetic" k2="0.8" result="composite" id="feComposite9036" k1="0" k3="0" k4="0"/>
+        </filter>
+        <filter style="color-interpolation-filters:sRGB" id="filter9044" x="0" y="0" width="1" height="1">
+            <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 " result="colormatrix" id="feColorMatrix9040"/>
+            <feComposite in2="colormatrix" operator="arithmetic" k2="0.8" result="composite" id="feComposite9042" k1="0" k3="0" k4="0"/>
+        </filter>
+        <filter style="color-interpolation-filters:sRGB" id="filter9050" x="0" y="0" width="1" height="1">
+            <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 " result="colormatrix" id="feColorMatrix9046"/>
+            <feComposite in2="colormatrix" operator="arithmetic" k2="0.8" result="composite" id="feComposite9048" k1="0" k3="0" k4="0"/>
+        </filter>
+        <filter style="color-interpolation-filters:sRGB" id="filter9056" x="0" y="0" width="1" height="1">
+            <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 " result="colormatrix" id="feColorMatrix9052"/>
+            <feComposite in2="colormatrix" operator="arithmetic" k2="0.8" result="composite" id="feComposite9054" k1="0" k3="0" k4="0"/>
+        </filter>
+        <filter style="color-interpolation-filters:sRGB" id="filter9062" x="0" y="0" width="1" height="1">
+            <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 " result="colormatrix" id="feColorMatrix9058"/>
+            <feComposite in2="colormatrix" operator="arithmetic" k2="0.8" result="composite" id="feComposite9060" k1="0" k3="0" k4="0"/>
+        </filter>
+        <filter style="color-interpolation-filters:sRGB" id="filter59751" x="0" width="1" y="-inf" height="inf">
+            <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 " result="colormatrix" id="feColorMatrix59747"/>
+            <feComposite in2="colormatrix" operator="arithmetic" k2="1.38778e-16" result="composite" id="feComposite59749" k1="0" k3="0" k4="0"/>
+        </filter>
+    </defs>
+    <g id="circle1" style="filter:url(#filter9044)">
+        <circle style="fill:#05e14d;fill-rule:evenodd;stroke-width:.3" id="circle6" cx="0" cy="0" r="4"/>
+        <animateMotion dur="2s" repeatCount="indefinite" begin="-0.4s">
+            <mpath xlink:href="#path1"/>
+        </animateMotion>
+    </g>
+    <g id="circle2" style="filter:url(#filter9044)">
+        <circle style="fill:#05e14d;fill-rule:evenodd;stroke-width:.3" id="circle58008" cx="0" cy="0" r="4"/>
+        <animateMotion dur="2s" repeatCount="indefinite" begin="-0.9s">
+            <mpath xlink:href="#path1"/>
+        </animateMotion>
+    </g>
+    <g id="circle3" style="filter:url(#filter9044)">
+        <circle style="fill:#05e14d;fill-rule:evenodd;stroke-width:.3" id="circle58982" cx="0" cy="0" r="4"/>
+        <animateMotion dur="2s" repeatCount="indefinite" begin="-1.4s">
+            <mpath xlink:href="#path1"/>
+        </animateMotion>
+    </g>
+    <g id="circle4" style="filter:url(#filter9044)">
+        <circle style="fill:#05e14d;fill-rule:evenodd;stroke-width:.3" id="circle58990" cx="0" cy="0" r="4"/>
+        <animateMotion dur="2s" repeatCount="indefinite" begin="-1.9s">
+            <mpath xlink:href="#path1"/>
+        </animateMotion>
+    </g>
+    <path id="upper_part" d="M 35,25 H 3.75 a 31.25,31.25 0 0 1 62.5,0 z" fill="#05e14d" style="fill:#ff0;stroke-width:.543416">
+        <animateTransform attributeName="transform" begin="0s;upper_close.end" dur="0.5s" type="rotate" from="0 35 25" to="-45 35 25" id="upper_open" additive="sum"/>
+        <animateTransform attributeName="transform" begin="upper_open.end" dur="0.5s" type="rotate" from="-45 35 25" to="0 35 25" id="upper_close"/>
+    </path>
+    <path id="lower_part" d="m 35,25 h 31.25 a 31.25,31.25 0 0 1 -62.5,0 z" fill="#05e14d" style="fill:#ff0;stroke-width:.543416">
+        <animateTransform attributeName="transform" begin="0s;lower_close.end" dur="0.5s" type="rotate" from="0 35 25" to="45 35 25" id="lower_open" additive="sum"/>
+        <animateTransform attributeName="transform" begin="lower_open.end" dur="0.5s" type="rotate" from="45 35 25" to="0 35 25" id="lower_close"/>
+    </path>
+    <path style="fill:none;stroke:#000;stroke-width:.312048px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter59751)" d="M 116.82124,25 H 34.252962" id="path1"/>
 </svg>
